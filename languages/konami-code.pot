@@ -1,0 +1,88 @@
+# Copyright (C) 2025 GraveHeart (Original) / Updated by You
+# This file is distributed under the same license as the Customizable Konami Code plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Customizable Konami Code 2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/konami-code\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-04-08T12:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: konami-code\n"
+
+#. Plugin Name of the plugin
+msgid "Customizable Konami Code"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://www.guravehaato.info/blog/tenha-o-konami-code-no-seu-blog"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds Konami Code easter egg functionality to your WordPress site"
+msgstr ""
+
+#. Author of the plugin
+msgid "GraveHeart"
+msgstr ""
+
+#: konami-code.php:59
+#: konami-code.php:60
+msgid "Konami Code"
+msgstr ""
+
+#: konami-code.php:79
+msgid "Konami Code Settings"
+msgstr ""
+
+#: konami-code.php:85
+msgid "Effect Type"
+msgstr ""
+
+#: konami-code.php:93
+msgid "Message / URL"
+msgstr ""
+
+#: konami-code.php:101
+msgid "Custom Code"
+msgstr ""
+
+#: konami-code.php:111
+msgid "Configure your Konami Code easter egg settings below."
+msgstr ""
+
+#: konami-code.php:123
+msgid "Show Alert Text"
+msgstr ""
+
+#: konami-code.php:127
+msgid "Load Another Page"
+msgstr ""
+
+#: konami-code.php:131
+msgid "BACON!"
+msgstr ""
+
+#: konami-code.php:146
+msgid "Enter the message or URL based on your selected effect type above."
+msgstr ""
+
+#: konami-code.php:147
+msgid "If you chose \"BACON!\" option, this field is not required."
+msgstr ""
+
+#: konami-code.php:161
+msgid "Leave blank for default Konami Code (up, up, down, down, left, right, left, right, B, A)."
+msgstr ""
+
+#: konami-code.php:163
+msgid "See %sKeyCodes reference%s for custom keys."
+msgstr ""
+
+#: konami-code.php:185
+msgid "Save Settings"
+msgstr ""
